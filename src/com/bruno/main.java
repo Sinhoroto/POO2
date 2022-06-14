@@ -1,3 +1,4 @@
+package com.bruno;
 import com.bruno.personagem.Personagem1;
 
 public class main {
