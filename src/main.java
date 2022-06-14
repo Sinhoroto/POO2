@@ -1,6 +1,6 @@
 import com.bruno.personagem.Personagem1;
 
-public class App {
+public class main {
     public static void main(String[] args) {
         Personagem1 p = new Personagem1();
 
