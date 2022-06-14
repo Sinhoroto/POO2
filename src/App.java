@@ -1,4 +1,4 @@
-import personagem.Personagem1;
+import com.bruno.personagem.Personagem1;
 
 public class App {
     public static void main(String[] args) {
